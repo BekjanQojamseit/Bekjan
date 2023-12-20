@@ -14,3 +14,6 @@ public class Main {
         }
     }
 }
+public class Helo world {
+    public static void main string[]
+}
